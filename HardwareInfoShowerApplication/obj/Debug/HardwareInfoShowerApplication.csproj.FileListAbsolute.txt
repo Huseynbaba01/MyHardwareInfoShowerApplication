@@ -1,0 +1,10 @@
+C:\Users\Huseynbaba\source\repos\HardwareInfoShowerApplication\bin\Debug\HardwareInfoShowerApplication.exe.config
+C:\Users\Huseynbaba\source\repos\HardwareInfoShowerApplication\bin\Debug\HardwareInfoShowerApplication.exe
+C:\Users\Huseynbaba\source\repos\HardwareInfoShowerApplication\bin\Debug\HardwareInfoShowerApplication.pdb
+C:\Users\Huseynbaba\source\repos\HardwareInfoShowerApplication\obj\Debug\HardwareInfoShowerApplication.csproj.AssemblyReference.cache
+C:\Users\Huseynbaba\source\repos\HardwareInfoShowerApplication\obj\Debug\HardwareInfoShowerApplication.Properties.Resources.resources
+C:\Users\Huseynbaba\source\repos\HardwareInfoShowerApplication\obj\Debug\HardwareInfoShowerApplication.csproj.GenerateResource.cache
+C:\Users\Huseynbaba\source\repos\HardwareInfoShowerApplication\obj\Debug\HardwareInfoShowerApplication.csproj.CoreCompileInputs.cache
+C:\Users\Huseynbaba\source\repos\HardwareInfoShowerApplication\obj\Debug\HardwareInfoShowerApplication.exe
+C:\Users\Huseynbaba\source\repos\HardwareInfoShowerApplication\obj\Debug\HardwareInfoShowerApplication.pdb
+C:\Users\Huseynbaba\source\repos\HardwareInfoShowerApplication\obj\Debug\HardwareInfoShowerApplication.Main.resources
