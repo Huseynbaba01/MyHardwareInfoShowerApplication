@@ -195,12 +195,12 @@ namespace HardwareInfoShowerApplication
             lbl_c_code.Text = os.ContryCode;
             lbl_c_t_zone_code.Text = os.CurrentTimeZone;
             lbl_MUI_l_code.Text = os.MUILanguages;
-            lbl_hint_os_l_code.Text = os.Language;
+            lbl_os_l_code.Text = os.Language;
 
             DateTime time = os.InstallTime;
             lbl_install_time.Text = time.ToString();
             time = ManagementDateTimeConverter.ToDateTime(os.LastBootUpTime);
-            lbl_hint_last_b_up_time.Text = time.ToString();
+            lbl_last_b_up_time.Text = time.ToString();
         }
 
         private void tp_CPU_Click(object sender, EventArgs e)
