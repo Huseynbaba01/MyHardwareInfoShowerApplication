@@ -53,11 +53,11 @@
     <Compile Include="Define\Constants.cs" />
     <Compile Include="Define\Untill.cs" />
     <Compile Include="Define\WMIQuery.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="HardwareInformation.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="HardwareInformation.Designer.cs">
+      <DependentUpon>HardwareInformation.cs</DependentUpon>
     </Compile>
     <Compile Include="Info\CPU.cs" />
     <Compile Include="Info\Bios.cs" />
@@ -68,8 +68,8 @@
     <Compile Include="Info\RAM.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="HardwareInformation.resx">
+      <DependentUpon>HardwareInformation.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
